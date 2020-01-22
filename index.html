@@ -1,0 +1,65 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	
+    <title>Gim' Versus</title>
+    <script src="script.js"></script>
+    <link rel="stylesheet" href="style.css" />
+    <meta charset="utf-8">
+	
+</head>
+	
+<body onload="load()">
+
+	<header>
+
+		<h1>Gim's Versus</h1>
+
+	</header>
+
+	<section>
+
+		<table>
+
+			<tr>
+
+				<td><select id="select_perso" name="select_perso" onchange="change()"></select</td>
+
+				<td><a href="personnages.html" id="liste_perso">Liste des personnages</a></td>
+
+			</tr>
+
+			<tr>
+
+				<td><img id="photo" class="photo"/><img src="images/vs.png" id="vs"/></td>
+
+				<td><img id="photo_gims" class="photo"/></td>
+
+			</tr>
+
+			<tr>
+
+				<td><a href="#wiki_frame"  onclick="wiki()"><h2 id="titre"></h2></a></td>
+
+				<td><a href="#wiki_frame"  onclick="wiki(1)"><h2 id="titre_gims"></h2></a></td>
+
+			</tr>
+
+			<tr>
+
+				<td><ul><li id="1"></li><li id="2"></li><li id="3"></li></ul></td>
+
+				<td><ul><li id="1_gims"></li><li id="2_gims"></li><li id="3_gims"></li></ul></td>
+
+			</tr>
+
+		</table>
+
+		<iframe id="wiki_frame"></iframe>
+
+	</section>
+
+	<footer></footer>
+
+</body>
+</html>
