@@ -2,7 +2,7 @@ var document;
 var array = [
 ["https://fr.wikipedia.org/wiki/Jean-Claude_Van_Damme", "images/jcvd.jpg", "JCVD", "Est AWARE.", "Adore l'eau. Dans 20-30 ans, y'en aura plus", "\"Il ne faut pas écouter les bruits du monde, mais le silence de l'âme.\""],
 ["https://fr.wikipedia.org/wiki/Chuck_Norris", "images/norris.jpg", "Chuck Norris", "A déjà compté jusqu'à l'infini. 2 fois.", "Sait parler le braille.", "Ne se mouille pas, c'est l'eau qui se Chuck Norris."],
-["https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour", "images/zemmour.jpg", "Eric Zemmour", "A fait le buzz sur CNEWS.", "Aime que les Corrine.", "Ecrit des essais mais ne les réussis jamais."],
+["https://fr.wikipedia.org/wiki/Perceval_(Kaamelott)", "images/perceval.jpg", "Perceval", "C'est pas faux.", "\"Vous, vous avez une idée derrière la main, j'en mettrais ma tête au feu !\"", "\"Incandescente, c’est : qui peut accaparer des objets sans resurgir sur autrui.\""],
 ["https://fr.wikipedia.org/wiki/Gims", "images/gims.jpg", "Gims", "N'a jamais montré ses yeux.", "Est toujours sapé comme jamais.", "Adoré par M. Grossé."]
 ];
 
